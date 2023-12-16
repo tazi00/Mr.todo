@@ -1,0 +1,26 @@
+[
+  {
+    "id": "comment1",
+    "content": "Great job!",
+    "likes": 2,
+    "dislikes": 3,
+    "userId": "user2",
+    "todoId": "todo1"
+  },
+  {
+    "id": "comment2",
+    "content": "Nice work!",
+    "likes": 1,
+    "dislikes": 0,
+    "userId": "user1",
+    "todoId": "todo1"
+  },
+  {
+    "id": "comment3",
+    "content": "Looking forward to it!",
+    "likes": 0,
+    "dislikes": 1,
+    "userId": "user1",
+    "todoId": "todo2"
+  }
+]

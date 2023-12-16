@@ -1,0 +1,38 @@
+[
+  {
+    "id": "521ede69-a8eb-40c3-8362-299498dca1ef",
+    "firstname": "",
+    "lastname": "",
+    "img": "",
+    "bio": "",
+    "phonenumber": "",
+    "hobby": "",
+    "email": "td0540245@gmail.com",
+    "password": "$2b$10$msPWc9I550qjvHFEfNoufuOAGzy71J2SPDQdS4h381dEOJUKR7CLS",
+    "username": "rikidhury"
+  },
+  {
+    "id": "968c541c-bb77-4d65-9abf-99eed92e0d71",
+    "firstname": "",
+    "lastname": "",
+    "img": "",
+    "bio": "",
+    "phonenumber": "",
+    "hobby": "",
+    "email": "Ad0540245@gmail.com",
+    "password": "$2b$10$RaduMsEBMG5LJr0NmXWWl.ESoo1cjEdyHD1HSw1/A5tgEI1yqNRUi",
+    "username": "ayushoo"
+  },
+  {
+    "id": "3cfee0e6-88a3-4022-bc17-957182a2ecdc",
+    "firstname": "",
+    "lastname": "",
+    "img": "",
+    "bio": "",
+    "phonenumber": "",
+    "hobby": "",
+    "email": "boboi@gmail.com",
+    "password": "$2b$10$iLq0ijhzzIn5f9c3l9t9TeyJtgyw1X23PaI5z6UPH8t1qVe0P2l.y",
+    "username": "boboiboy"
+  }
+]

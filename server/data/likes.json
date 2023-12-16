@@ -1,0 +1,23 @@
+[
+  {
+    "id": "like1",
+    "userId": "user1",
+    "todoId": "todo1",
+    "commentId": "comment1",
+    "liked": true
+  },
+  {
+    "id": "like2",
+    "userId": "user2",
+    "todoId": "todo1",
+    "commentId": "comment1",
+    "liked": true
+  },
+  {
+    "id": "like3",
+    "userId": "user1",
+    "todoId": "todo1",
+    "commentId": "comment2",
+    "liked": false
+  }
+]
